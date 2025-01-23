@@ -1,16 +1,16 @@
-## Hi there 👋
+# Henrique Silveira
 
-<!--
-**CortexH/CortexH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Opa! Meu nome é Henrique, sou um iniciante na área de tecnologia, apaixonado por desenvolvimento de software!
+Meu objetivo principal é iniciar uma carreira na área da tecnologia, cada vez mais aprimorando minhas habilidades e soft skills,
+além de buscar ser um desenvolvedor excepcional!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 projetos em destaque 🔥
+- [Sistema de pagamento simplificado](https://github.com/CortexH/Sistema_Pagamento_simplificado): Um simples projeto com objetivo de ser um sistema de pagamento (mais informações no readme.md do projeto)
+- [Sistema de reserva automotiva](https://github.com/CortexH/WIP_Sistema-reserva-automotiva): Um sistema para reservas automotivas, (esse aqui tá até upado em servidor rsrs)
+
+### Contato
+Quer conversar um pouco comigo? Eis aqui as minhas formas de contato:
+
+📧 henrique.silveira.soares19988@gmail.com
