@@ -25,7 +25,6 @@ Decidi parar um pouco com o desenvolvimento e estudar mais à fundo sobre as seg
   - Kubernets
   - Nginx
   - AWS
-  - Segurança de API's
 
 ### Considerações finais
 
