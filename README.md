@@ -22,7 +22,7 @@ Quer conversar um pouco comigo? Eis aqui as minhas formas de contato:
 
 Decidi parar um pouco com o desenvolvimento e estudar mais à fundo sobre as seguintes tecnologias:
   - Docker
-  - Kubernets
+  - Kubernetes
   - Nginx
   - AWS
 
