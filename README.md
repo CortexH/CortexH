@@ -17,3 +17,15 @@ além de buscar ser um desenvolvedor excepcional!
 Quer conversar um pouco comigo? Eis aqui as minhas formas de contato:
 
 📧 henrique.silveira.soares19988@gmail.com
+
+### Observações:
+
+- Decidi parar um pouco com o desenvolvimento e estudar mais à fundo sobre as seguintes tecnologias:
+  Docker
+  Kubernets
+  Nginx
+
+### Considerações finais
+
+Bom, acho que é isso, espero no futuro ser alguém extremamente competente em relação à área da tecnologia (mais especificamente desenvolvimento backend rsrs)
+:)
