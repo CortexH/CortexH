@@ -20,10 +20,10 @@ Quer conversar um pouco comigo? Eis aqui as minhas formas de contato:
 
 ### Observações:
 
-- Decidi parar um pouco com o desenvolvimento e estudar mais à fundo sobre as seguintes tecnologias:
-  Docker
-  Kubernets
-  Nginx
+Decidi parar um pouco com o desenvolvimento e estudar mais à fundo sobre as seguintes tecnologias:
+  - Docker
+  - Kubernets
+  - Nginx
 
 ### Considerações finais
 
