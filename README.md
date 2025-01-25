@@ -20,13 +20,12 @@ Quer conversar um pouco comigo? Eis aqui as minhas formas de contato:
 
 ### Observações:
 
-Decidi parar um pouco com o desenvolvimento e estudar mais à fundo sobre as seguintes tecnologias:
-  - Docker
+Decidi pausar um pouco o desenvolvimento prático e estudar mais a fundo sobre as seguintes tecnologias:
+  - Docker (aprimoramento)
   - Kubernetes
   - Nginx
   - AWS
 
 ### Considerações finais
 
-Bom, acho que é isso, espero no futuro ser alguém extremamente competente em relação à área da tecnologia (mais especificamente desenvolvimento backend rsrs)
-:)
+Bom, acho que é isso, espero no futuro ser alguém extremamente competente em relação à área da tecnologia :) (mais especificamente desenvolvimento backend rsrs)
