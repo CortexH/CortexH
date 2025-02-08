@@ -12,7 +12,7 @@ além de buscar ser um desenvolvedor excepcional!
 - [(WIP) Sistema de leilões](https://github.com/CortexH/WIP_Auction-System): Um sistema para leiloar produtos de forma on-line, com websocket para acompanhar as atualizações em tempo real! (Está em progresso, mas em breve estará no ar!)
 
 ### Outros repositórios 
-- [Docker hub](hub.docker.com/r/cortexh)
+- Docker hub: hub.docker.com/r/cortexh
 
 ### Contato
 Quer conversar um pouco comigo? Eis aqui as minhas formas de contato:
