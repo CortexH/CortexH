@@ -8,8 +8,7 @@ além de buscar ser um desenvolvedor excepcional!
 
 ### 🔥 projetos em destaque 🔥
 - [Sistema de pagamento simplificado](https://github.com/CortexH/Sistema_Pagamento_simplificado): Um simples projeto com objetivo de ser um sistema de pagamento (mais informações no readme.md do projeto)
-- [Sistema de reserva automotiva](https://github.com/CortexH/WIP_Sistema-reserva-automotiva): Um sistema para reservas automotivas (esse aqui tá até upado em servidor rsrs, mais informações no readme.md do projeto)
-- [(WIP) Sistema de leilões](https://github.com/CortexH/WIP_Auction-System): Um sistema para leiloar produtos de forma on-line, com websocket para acompanhar as atualizações em tempo real! (Está em progresso, mas em breve estará no ar!)
+- [Sistema de chat](https://github.com/CortexH/message_system): Um sistema de bate-papo com autenticação e pedidos de amizades simples, com integração de websockets.
 
 ### Outros repositórios 
 - Docker hub: hub.docker.com/r/cortexh
