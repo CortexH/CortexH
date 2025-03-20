@@ -7,7 +7,7 @@ Meu objetivo principal é iniciar uma carreira na área da tecnologia, cada vez 
 além de buscar ser um desenvolvedor excepcional!
 
 ### 🔥 projetos em destaque 🔥
-- [Sistema de pagamento simplificado](https://github.com/CortexH/Sistema_Pagamento_simplificado): Um simples projeto com objetivo de ser um sistema de pagamento (mais informações no readme.md do projeto)
+- [Sistema de pagamento simplificado](https://github.com/CortexH/Sistema_Pagamento_simplificado): Um simples projeto com objetivo de ser um sistema de pagamento
 - [Sistema de chat](https://github.com/CortexH/message_system): Um sistema de bate-papo com autenticação e pedidos de amizades simples, com integração de websockets. aplicação de arquitetura hexagonal, princípios SOLID e DDD
 
 ### Outros repositórios 
