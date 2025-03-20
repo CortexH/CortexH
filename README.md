@@ -17,7 +17,7 @@ além de buscar ser um desenvolvedor excepcional!
 Quer conversar um pouco comigo? Eis aqui as minhas formas de contato:
 
 - 📧 henrique.silveira.soares19988@gmail.com
-- 🔷 [Linkedin](www.linkedin.com/in/henrique-silveira-6a2a392b5)
+- 🔷 Linkedin - www.linkedin.com/in/henrique-silveira-6a2a392b5
 
 ### Observações:
 
