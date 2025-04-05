@@ -11,7 +11,7 @@ além de buscar ser um desenvolvedor excepcional!
 - [Sistema de chat](https://github.com/CortexH/message_system): Um sistema de bate-papo com autenticação e pedidos de amizades simples, com integração de websockets. aplicação de arquitetura hexagonal, princípios SOLID e DDD (mais informações no README.md do projeto) (java)
 
 ### Outros repositórios 
-- Docker hub: hub.docker.com/r/cortexh
+- Docker hub: https://hub.docker.com/r/cortexh
 
 ### Contato
 Quer conversar um pouco comigo? Eis aqui as minhas formas de contato:
