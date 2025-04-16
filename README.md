@@ -21,11 +21,12 @@ Quer conversar um pouco comigo? Eis aqui as minhas formas de contato:
 
 ### Observações:
 
-Decidi pausar um pouco o desenvolvimento prático e estudar mais a fundo sobre as seguintes tecnologias:
+Decidi pausar um pouco o desenvolvimento prático e estudar mais a fundo sobre os tópicos:
   - Docker (aprimoramento)
-  - Kubernetes
-  - Nginx
-  - AWS
+  - Kafka e RabbitMQ
+  - Arquitetura hexagonal
+  - Domain-driven design
+  - SOLID
 
 ### Considerações finais
 
