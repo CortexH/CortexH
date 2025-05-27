@@ -7,7 +7,7 @@ Meu objetivo principal é iniciar uma carreira na área da tecnologia, cada vez 
 além de buscar ser um desenvolvedor excepcional!
 
 ### 🔥 projetos em destaque 🔥
-- [Sistema de cinema](https://github.com/CortexH/Cinema-system): Um sistema altamente robusto de cinema, utilizando as mais atuais tecnologias (Java, Spring Boot, Kafka, entre outros) com arquitetura Hexagonal, Domain-Driven Design, SOLID e DRY. (mais informações no README.md do projeto)
+- [Sistema de cinema](https://github.com/CortexH/Cinema-system): Um sistema altamente robusto de cinema, utilizando as mais atuais tecnologias (Java, Spring Boot, Kafka, entre outros) com microsserviços, arquitetura hexagonal, Domain-Driven Design, SOLID e DRY. (mais informações no README.md do projeto)
 - [Sistema de chat](https://github.com/CortexH/message_system): Um sistema de bate-papo com autenticação e pedidos de amizades simples, com integração de websockets. aplicação de arquitetura hexagonal, princípios SOLID e DDD (mais informações no README.md do projeto) (java)
 
 ### Outros repositórios 
